@@ -1,6 +1,6 @@
 # RMOSS Linux
 
-### RMOSS Linux is a customized linux distro based on Zorin OS 16 (Ubuntu 20.04). It integrates development environments for c++, java, python, C#, rust and other languages as well as sdk for ROS, OpenCV, OpenVino, etc., intend to provide a more user-friendly development environment for beginners of computer vision algorithms and electric control system, especially for those who intend to participate in [DJI RoboMaster Competations](https://www.robomaster.com/).
+### RMOSS Linux is a customized linux distro based on Zorin OS 16 (Ubuntu 20.04). It integrates development environments for c++, java, python, C#, rust and other languages as well as sdk for ROS, OpenCV, OpenVino, etc., intend to provide a more user-friendly development environment for beginners of computer vision algorithms and electric control system, especially for those who intend to participate in [DJI RoboMaster Competitions](https://www.robomaster.com/).
 
 ## Downloads
 | Version | Download Link | md5 |
