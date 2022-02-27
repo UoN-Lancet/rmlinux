@@ -5,7 +5,8 @@
 ## Downloads
 | Version | Download Link | md5 |
 | --- | --- | --- |
-| 20.04-22b | [Google Drive](https://drive.google.com/drive/folders/1URBnskQzL9XFenM-hE9bwZmuyLa-Iumk) | c06fc30f1d6fed415b565361441fd962  |
+| 20.04-22b | [Google Drive](https://drive.google.com/drive/folders/1URBnskQzL9XFenM-hE9bwZmuyLa-Iumk) | c06fc30f1d6fed415b565361441fd962 |
+| 20.04-22c | [Google Drive](https://drive.google.com/drive/folders/1db08WeLOqSskdYDoZ5eE8SUy_JXF4jy1) | 5e9833c4e351828c82cd349501d1f7f7 |
 
 ## Main Integrated Packages and Softwares
 
