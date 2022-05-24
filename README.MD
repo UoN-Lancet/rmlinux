@@ -1,12 +1,13 @@
-# RMOSS Linux
+# RMLinux
 
-### RMOSS Linux is a customized linux distro based on Zorin OS 16 (Ubuntu 20.04). It integrates development environments for c++, java, python, C#, rust and other languages as well as sdk for ROS, OpenCV, OpenVino, etc., intend to provide a more user-friendly development environment for beginners of computer vision algorithms and electric control system, especially for those who intend to participate in [DJI RoboMaster Competitions](https://www.robomaster.com/).
+### RMLinux is a customized linux distro intended to provide a more user-friendly development environment for beginners of computer vision algorithms and electric control system, especially for those who intend to participate in [DJI RoboMaster Competitions](https://www.robomaster.com/). There are two versions. The full version is based on Zorin OS 16, integrated development environments for C++, Java, Python, C#, Rust and other languages as well as sdk for ROS, OpenCV, OpenVino, etc. The core version is based on Ubuntu 20.04, integrates only basic development and deployment environment.
 
 ## Downloads
 | Version | Download Link | md5 |
 | --- | --- | --- |
-| 20.04-22b | [Google Drive](https://drive.google.com/drive/folders/1URBnskQzL9XFenM-hE9bwZmuyLa-Iumk) | c06fc30f1d6fed415b565361441fd962 |
-| 20.04-22c | [Google Drive](https://drive.google.com/drive/folders/1db08WeLOqSskdYDoZ5eE8SUy_JXF4jy1) | 5e9833c4e351828c82cd349501d1f7f7 |
+| full-20.04-22b  | - | c06fc30f1d6fed415b565361441fd962 |
+| full-20.04-22c  | [Google Drive](https://drive.google.com/drive/folders/1db08WeLOqSskdYDoZ5eE8SUy_JXF4jy1) | 5e9833c4e351828c82cd349501d1f7f7 |
+| core-20.04 | [Google Drive](https://drive.google.com/drive/folders/1ICO25DPtTU1DPA9i3ee3AboHmKyMWeWi) | 96dfbb7d3026563fb06b6a5c2babfd65 | 
 
 ## Main Integrated Packages and Softwares
 
